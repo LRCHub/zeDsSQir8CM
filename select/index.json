@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "Carrying Happiness",
+  "base_artist": "Mrs. GREEN APPLE",
+  "createdAt": "2026-02-08T06:14:21.557867Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Carrying Happiness (Tokyo Disney Resort Version／セリフあり)",
+      "artist": "Mrs. Green Apple",
+      "has_synced": false,
+      "path": "select/01_Carrying_Happiness_(Tokyo_Disney_Resort_Version_セリフあり)_Mrs._Green_Apple.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Carrying Happiness",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/02_Carrying_Happiness_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Carrying Happiness - Tokyo Disney Resort Version",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/03_Carrying_Happiness_-_Tokyo_Disney_Resort_Version_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Carrying happiness",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": false,
+      "path": "select/pl_01_Carrying_happiness_Mrs._GREEN_APPLE.txt"
+    }
+  ]
+}
